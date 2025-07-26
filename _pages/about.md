@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align = "" src="https://github.com/rayepenber095/rayepenber095/blob/main/files/tumblr_3ac054f8d07200ed00f0c833b4105c63_ecbb5a14_540.webp" width="1000" height="250" alt="rayepenber095">
+<img align = "" src="https://github.com/rayepenber095/rayepenber095.github.io/blob/master/images/Governments%20fear%20one%20thing%20the%20person%20who%20no%20longer%20believes%20their%20illusion..png" width="1000" height="350" alt="rayepenber095">
 
 ![GitHub followers](https://img.shields.io/github/followers/rayepenber095)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rayepenber095)
