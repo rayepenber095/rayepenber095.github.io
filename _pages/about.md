@@ -1,24 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<img align = "" src="/images/black.jpg" width="1000" height="150" alt="rayepenber095">
+<img src="/images/black.jpg" alt="rayepenber095" style="width:1000px; height:150px;">
 
 ![GitHub followers](https://img.shields.io/github/followers/rayepenber095)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rayepenber095)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayepenber095&label=Profile%20views&color=000000&style=flat" alt="rayepenber095" /> </p>
 
-<h3 align="left">💻 I'm Raye Pamber</h3>
+<h3 align="left">I'm Raye Pamber</h3>
 <h2 align="left">Computer Scientist | Cyber Security Expert | Vulnerability Researcher</h2>
 
 <img class="rounded-image" src="images/eye.gif" alt="rayepenber" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" align="right" />
 
-## 🧠 About Me
+## About Me
 
 Hey — I’m someone who thinks a little differently about the digital world.
 
@@ -71,26 +71,30 @@ you’ll probably feel right at home here.
 
 
 <h2>🏆 GitHub Trophies</h2>
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=rayepenber095&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4" style="width:70%;">
+<div align="left" style="white-space: nowrap;">
+  <img src="https://github-profile-trophy.vercel.app/?username=rayepenber095&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4" style="width:80%; max-width:1000px; display: inline-block;">
 </div>
+
 
 ## 📊 GitHub Stats:
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayepenber095&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_green&locale=en&hide_border=false" height="150" alt="stats graph" />
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;">
   
+  <img src="https://github-readme-stats.vercel.app/api?username=rayepenber095&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_green&locale=en&hide_border=false" height="150" alt="Stats" />
+
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app/?user=rayepenber095&theme=shadow_green&hide_border=false" height="150" alt="GitHub Streak" />
   </a>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayepenber095&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=20&theme=shadow_green&hide_border=false" height="300" width="400" alt="languages graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayepenber095&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=shadow_green&hide_border=false" height="150" alt="Top Languages" />
+
 </div>
+
 
 
 <h2>🔝 Top Contributed Repo</h2>
 <div align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rayepenber095&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" style="width:30%;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rayepenber095&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" style="width:50%;">
 </div>
 
 ## 💰 You can help me by Donating

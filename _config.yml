@@ -53,18 +53,18 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : # Replace this with you Bluesky username
-  facebook         : "rayepenber095"
+  facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "rayepenber095"
+  instagram        : # Username
   lastfm           : # URL
-  linkedin         : "rayepenber095"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
-  pinterest        : "rayepenber095"
+  pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : "rayepenber095"
@@ -73,7 +73,7 @@ author:
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
-  xing             : "Raye_Penber056509"
+  xing             : # Username
   youtube          : # URL
   zhihu            : # Username
 
