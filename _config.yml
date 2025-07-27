@@ -13,7 +13,7 @@ title                    : "Raye Penber"
 title_separator          : "-"
 name                     : &name "Raye Penber"
 description              : &description "personal description"
-url                      : https://rayepenber095.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://rayepenber095.github.io"
+url                      : https://rayepenber095.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://rayepenber095.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rayepenber095/rayepenber095.github.io"
 
@@ -22,7 +22,7 @@ repository               : "rayepenber095/rayepenber095.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "images/profile1.png"
   name             : "Raye Penber"
   pronouns         : "he/him"  
   bio              : "Think deeper. The system you trust is the real virus."
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=XN8wUBGMiYgC&hl=en"
+  googlescholar    : # URL
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : "rayepenber095"
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +60,7 @@ author:
   google_plus      : # Username
   keybase          : # Username
   instagram        : "rayepenber095"
-  lastfm           : "rayepenber095"
+  lastfm           : # URL
   linkedin         : "rayepenber095"
   mastodon         : # URL
   medium           : # URL
@@ -74,7 +74,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : "Raye_Penber056509"
-  youtube          : "rayepenber095"
+  youtube          : # URL
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
