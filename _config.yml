@@ -22,7 +22,7 @@ repository               : "rayepenber095/rayepenber095.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile1.png"
+  avatar           : "profile1.jpg"
   name             : "Raye Penber"
   pronouns         : "he/him"  
   bio              : "Think deeper. The system you trust is the real virus."
