@@ -7,13 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/black.jpg" alt="rayepenber095" style="width:1000px; height:150px;">
 
-![GitHub followers](https://img.shields.io/github/followers/rayepenber095)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/rayepenber095)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayepenber095&label=Profile%20views&color=000000&style=flat" alt="rayepenber095" /> </p>
 
-<h3 align="left">I'm Raye Pamber</h3>
+<h1 align="left">I'm Raye Pamber</h1>
 <h2 align="left">Computer Scientist | Cyber Security Expert | Vulnerability Researcher</h2>
 
 <img class="rounded-image" src="images/eye.gif" alt="rayepenber" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" align="right" />
